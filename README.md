@@ -1,7 +1,5 @@
 # Undergraduate Computer Science Portfolio
 
-
-
 <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right:30px;float:left;"/>
 
 **Contact Information:**  
@@ -12,9 +10,15 @@
 
 <br clear="all">
 
-## About Me
+---
 
-## Undergraduate Projects 
+## 👋 About Me
+
+I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Computer Science, B.A. in Homeland Security). I specialize in building robust software systems, embedded frameworks, and impactful data science projects. I have experience developing both mission-critical engineering tools for robotics and engaging games and data visualizations. I enjoy solving real-world problems through code, teamwork, and curiosity.
+
+---
+
+##  📝 Undergraduate Projects 
 
 ### Howe and Howe Internship 
 - **Description:** Developed a modular C++ framework to automate testing and flashing of robotic control components, using simulated and embedded test stations for rapid fault detection. Built portable diagnostics with CAN bus and ESP32/M5Stack hardware, streamlining engineering workflows. Authored clear documentation and comprehensive unit tests, supporting scalable Power-On Self-Test features and advanced inventory validation.
@@ -51,15 +55,14 @@
 - **Year:** Summer 2024
 - **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
-
-## Education
+##  🎓  Education
 - **Tulane Univeristy of New Orleans** - Dual Degree Canidate
   - *Bachelor of Science*, Computer Science; School of Science and Engineering
   - *Bachelor of Arts*, Homeland Security, School of Professional Advancement
 - **Graduation Year:** May 2027
 - **Current Year:** Senior (4th year)
 
-## Work History
+##  💼 Work History
 - **Software Engineer Intern** - *Textron Systems: Howe and Howe Technologies*, Waterboro, ME
   - **Description:** Collaborated closely with multidisciplinary teams to enhance quality assurance in robotic systems manufacturing. Delivered effective solutions for early component validation, enabling smoother integration and reduced downtime. Demonstrated strong technical communication by documenting projects and contributing to ongoing process improvements.
   - **Dates of Employment:** June 2026 - August 2026
@@ -78,9 +81,10 @@
 - **Student Athlete Tutor** - *Tulane University* - New Orleans, LA 
   - **Description:** Supported academic success by tutoring student-athletes in American Sign Language, introductory business, and physics, adapting instruction to diverse learning needs and schedules. Fostered an encouraging and collaborative learning environment, and helped students build strong foundational skills to achieve both academic and athletic goals.
   - **Dates of Employment:** August 2025 - Current
- 
 
-## Skills
+ ---
+ 
+## 🛠️ Skills
 - **Programming Languages:**
   - Python
   - Java
@@ -152,7 +156,9 @@
   - Tulane Scholarship: $60,60 yr
   - Alumni Donors Award $3,000 yr
 
-## Relevant Coursework
+---
+
+## ✏️ Relevant Coursework
 - **Computer Science, Math & Engineering:**
   - Intro to Computer Science I & II
   - Into to Business Computing
@@ -180,10 +186,14 @@
   - Cyber Threats
   - Lifelong Development and Psychology (relevant for human factors in security)
 
-## Extracurriculars
+--- 
+
+## ⏰ Extracurriculars
 - Theta Tau - Nu Epsilon Chapter, *Professional Engineering Fraternity*, New Orleans, LA
 - Alpha Alpha Alpha - Tri Alpha, *First Generation Honors Society*, New Orleans, LA
 - Alpha Lambda Delta - *Honors Society for first year students with a GPA > 3.5*, New Orleans, LA
 
-## Downloadable Resume
+---
+
+## 📄 Downloadable Resume
 📄 [Download My Resume (PDF)](/docs/assets/Resume.pdf)
