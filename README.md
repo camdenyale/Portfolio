@@ -159,6 +159,19 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
   - Alumni Donors Award $3,000 yr
 
 ---
+## Programming Language Proficiency
+
+| Language   | Proficiency         |
+|------------|---------------------|
+| Python     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  |
+| Java       | ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)     |
+| C#         | ⭐⭐⭐⭐⭐⭐⭐  (7/10)     |
+| C++        | ⭐⭐⭐⭐⭐⭐⭐  (7/10)     |
+| JavaScript | ⭐⭐⭐⭐⭐⭐⭐  (7/10)     |
+| HTML/CSS   | ⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)     |
+| SQL        | ⭐⭐⭐⭐⭐⭐⭐  (8/10)     |
+
+---
 
 ## ✏️ Relevant Coursework
 - **Computer Science, Math & Engineering:**
