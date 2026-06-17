@@ -1,5 +1,19 @@
 # Undergraduate Computer Science Portfolio
 ![Camden Yale headshot](/docs/assets/DSC04728.jpeg){:width="300"}
+<table>
+  <tr>
+    <td>
+      <img src="/docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="150"/>
+    </td>
+    <td>
+      <b>Contact Information</b><br>
+      <b>School Email:</b> cyale@tulane.edu<br>
+      <b>Personal Email:</b> camden.myale@gmail.com<br>
+      <b>Work Phone:</b> (207)808-9070<br>
+      <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/camdenyale">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 ## Contact Information
 - **School Email:** cyale@tulane.edu
