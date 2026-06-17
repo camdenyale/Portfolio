@@ -1,7 +1,7 @@
 # Undergraduate Computer Science Portfolio
 ![Camden Yale headshot](/docs/assets/DSC04728.jpeg){:width="300"}
 <div style="display: flex; align-items: center;">
-  <img src="/docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="150" style="margin-right: 30px;">
+  <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="150" style="margin-right: 30px;">
   <div>
     <b>Contact Information</b><br>
     <b>School Email:</b> cyale@tulane.edu<br>
