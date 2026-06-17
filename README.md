@@ -192,3 +192,4 @@
 - Alpha Lambda Delta - *Honors Society for first year students with a GPA > 3.5*, New Orleans, LA
 
 ## Downloadable Resume
+📄 [Download My Resume (PDF)](/docs/assets/Resume.pdf)
