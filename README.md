@@ -69,4 +69,75 @@
   - **Dates of Employment:** January 2024 - Current 
 - **Student Athlete Tutor** - *Tulane University* - New Orleans, LA 
   - **Description:** Supported academic success by tutoring student-athletes in American Sign Language, introductory business, and physics, adapting instruction to diverse learning needs and schedules. Fostered an encouraging and collaborative learning environment, and helped students build strong foundational skills to achieve both academic and athletic goals.
-  - **Dates of Employment:** August 2025 - Current 
+  - **Dates of Employment:** August 2025 - Current
+ 
+
+## Skills
+- **Programming Languages:**
+  - Python
+  - Java
+  - C#
+  - C++
+  - C
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
+- **Frameworks & Libraries:**
+  - Flask
+  - Tkinter
+  - PlatformIO (embedded)
+  - Pytest (testing)
+  - Unity (game dev)
+  - Unity (unit testing)
+- **Data Science & Analysis:**
+  - Pandas
+  - scikit-learn
+  - Machine Learning 
+  - Choropleth Mapping
+  - Retrieval-Augemented Generation (RAG)
+- **Tools & Platforms:**
+  - Visual Studio Code
+  - Unity
+  - GitHub
+  - Jira
+  - Git
+  - GitLab
+  - Microsoft SQL Express
+  - IIS Manager
+  - PlatformIO
+  - ESP32/M5Stack
+  - CAN Bus Hardware
+  - API Keys
+- **DevOps & Testing:**
+  - Unit Testing
+  - Integration Testing
+  - Documentation Writing
+  - Architecture Design
+- **Project Management & Communication:**
+  - Slack
+  - Discord
+  - Executive Board Leadership
+  - Cross-Functional Collaboration
+  - Microsoft Workspace (Outlook, Teams, Excel)
+- **Hardware & Embedded Systems:**
+  - CAN Bus diagnostics
+  - ESP32/M5Stack Hardware
+  - Robotic System Integration
+  - Sensor configuration
+- **UI/UX & Web:**
+  - Responsive Web Design
+  - Full-stack Development
+  - Queue Management Web Apps
+  - Game UI/UX Design
+- **Other Skills & Languages**
+  - American Sign Language (Intermediate)
+  - Technical Documentation
+  - Leadership and Team Management
+  - Event Planning and Workshop Facilitation
+  - Podcast Production
+- **Academic Honors:**
+  - Deans list 6/6 semesters
+  - Merit Scholarship: $20,000 yr
+  - Tulane Scholarship: $60,60 yr
+  - Alumni Donors Award $3,000 yr
