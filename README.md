@@ -5,7 +5,7 @@
 **Personal Email:** camden.myale@gmail.com  
 **Work Phone:** (207)808-9070  
 
-**Social Media:**
+**Social Media:**   
 **🐙 GitHub:** [GitHub]("https://github.com/camdenyale")     
 **🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
 
