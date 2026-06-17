@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <img src="/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right: 30px;">
   <div>
-    <span style="font-size: 1.1em; font-weight: bold; text-decoration: underline; display: block; margin-bottom: 8px;">Contact Information</span>
+    <span style="font-size: 1.1em; font-weight: bold; text-decoration: underline; display: block; margin-bottom: 8px;">Contact Information:</span>
     <strong>School Email:</strong> cyale@tulane.edu<br>
     <strong>Personal Email:</strong> camden.myale@gmail.com<br>
     <strong>Work Phone:</strong> (207)808-9070<br>
