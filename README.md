@@ -1,14 +1,12 @@
 <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right:30px;float:left;"/>
 
 **Contact Information:**  
-
 **School Email:** cyale@tulane.edu  
 **Personal Email:** camden.myale@gmail.com  
 **Work Phone:** (207)808-9070  
 
 **Social Media:**
-
-**🐙 GitHub:** [GitHub]("https://github.com/camdenyale")
+**🐙 GitHub:** [GitHub]("https://github.com/camdenyale")     
 **🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
 
 <br clear="all">
@@ -169,8 +167,9 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 | Language   | Proficiency         |
 |------------|---------------------|
 | Python     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  |
-| C#       | ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)     |
+| C       | ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)     |
 | C++         | ⭐⭐⭐⭐⭐⭐⭐⭐  (8/10)     |
+| C#         | ⭐⭐⭐⭐⭐⭐⭐  (7/10)     |
 | Java        | ⭐⭐⭐⭐⭐⭐  (6/10)     |
 | JavaScript | ⭐⭐⭐⭐⭐⭐  (6/10)     |
 | HTML/CSS   | ⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)     |
