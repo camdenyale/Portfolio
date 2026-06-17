@@ -4,6 +4,7 @@
   <tr>
     <td>
       <img src="/docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="150"/>
+      <![Camden Yale headshot](/docs/assets/DSC04728.jpeg){:width="300"}>
     </td>
     <td>
       <b>Contact Information</b><br>
