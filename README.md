@@ -1,4 +1,5 @@
 # Undergraduate Computer Science Portfolio
+---
 
 <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right:30px;float:left;"/>
 
@@ -55,12 +56,16 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 - **Year:** Summer 2024
 - **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
+---
+
 ##  🎓  Education
 - **Tulane Univeristy of New Orleans** - Dual Degree Canidate
   - *Bachelor of Science*, Computer Science; School of Science and Engineering
   - *Bachelor of Arts*, Homeland Security, School of Professional Advancement
 - **Graduation Year:** May 2027
 - **Current Year:** Senior (4th year)
+
+---
 
 ##  💼 Work History
 - **Software Engineer Intern** - *Textron Systems: Howe and Howe Technologies*, Waterboro, ME
