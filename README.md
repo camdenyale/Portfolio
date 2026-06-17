@@ -1,41 +1,47 @@
 # Undergraduate Computer Science Portfolio
 
+## Contact Information
+- **School Email:** cyale@tulane.edu
+- **Personal Email:** camden.myale@gmail.com
+- **Work Phone:** (207)808-9070
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/camdenyale)
+
 ## Undergraduate Projects 
 
 ### Howe and Howe Internship 
 - **Description:** Developed a modular C++ framework to automate testing and flashing of robotic control components, using simulated and embedded test stations for rapid fault detection. Built portable diagnostics with CAN bus and ESP32/M5Stack hardware, streamlining engineering workflows. Authored clear documentation and comprehensive unit tests, supporting scalable Power-On Self-Test features and advanced inventory validation.
 - **Year:** Summer 2026
-- **Links:**
+- **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
 ### Weenix
-- **Description:**
+- **Description:** Weenix is an intensive semester-long project centered on building a fully functional Unix-like operating system kernel from scratch. As part of the Operating Systems course (CMPS4470), this project is renowned for its rigor and depth, and typically serves as a cornerstone of Brown University's Computer Science curriculum, offered here in collaboration with Tulane University. The project is divided into four major components: process management, device drivers, a virtual file system (VFS), and the S5FS file system. Due to course policy, the source code must remain private—please contact me for more information or to discuss the project in detail.
 - **Year:** Spring 2026
 - **Links:** 
 
 ### WaveMatch AI Chatbot
-- **Description:**
+- **Description:** WaveMatch is an intelligent campus concierge designed to bridge the gap between Tulane’s vast extracurricular ecosystem and the students who often feel overwhelmed by it. By moving beyond simple keyword matching, WaveMatch uses Retrieval-Augmented Generation (RAG) to understand a student’s "vibe," academic background, and schedule constraints to offer curated, high-impact recommendations
 - **Year:** Spring 2026
-- **Links:**
+- **Links:** Check out [My Website](https://huggingface.co/spaces/camden-yale/WaveMatch) for more informaion!
 
-### Data Science Project
-- **Description:**
+### Geospatial and Economic Analysis of Dunkin vs. Starbucks in the U.S. - Data Science Project
+- **Description:** This project maps and compares the regional distribution of Dunkin and Starbucks stores across the country, highlighting patterns of dominance and exploring the impact of their historical origins. Using choropleth maps and logistic regression, we analyze how local economic factors—particularly median household income—influence store presence and market saturation, while documenting key regional trends and differences between the two chains.
 - **Year:** Fall 2025
-- **Links:**
+- **Links:** Check out [My Website](https://camdenyale.github.io/DataScienceProject/) for more information!
 
 ### Farm Game Project 
-- **Description:**
+- **Description:** Developed a Unity-based farm simulation game where players manage crops and animals to collect ingredients. The gameplay features an interactive farm environment that allows users to plant, harvest, and care for animals, gathering resources for cooking. As players collect ingredients, they unlock recipes and access a dedicated kitchen screen to prepare dishes. Progressing through cooking recipes unlocks new levels and challenges, encouraging strategic farming and culinary creativity. This project showcases Unity game development, resource management systems, UI design, and progression mechanics inspired by popular social farm games.
 - **Year:** Fall 2025
 - **Links:**
 
 ### Textron Systems - Weapons Division Internship 
 - **Description:** Spearheaded the migration of a legacy desktop queue management tool to a full-stack web application using Python, Flask, and Microsoft SQL. Enhanced job tracking for laser cutters and water jets, introduced data analytics and administrative controls, and integrated seamless data management for real-time operations.
 - **Year:** Summer 2025
-- **Links:**
+- **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
 ### Howe and Howe Internship  
 - **Description:** Designed an intuitive application to streamline camera configuration on Thermite unmanned ground vehicles, reducing errors and improving user experience. Developed a rotary encoder test tool that significantly reduced validation time for multiple vehicles, and authored comprehensive documentation with detailed diagrams for future development.
 - **Year:** Summer 2024
-- **Links:**
+- **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
 
 ## Education
