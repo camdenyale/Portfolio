@@ -1,10 +1,15 @@
 <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right:30px;float:left;"/>
 
 **Contact Information:**  
+
 **School Email:** cyale@tulane.edu  
 **Personal Email:** camden.myale@gmail.com  
 **Work Phone:** (207)808-9070  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
+
+**Social Media:**
+
+**🐙 GitHub:** [GitHub]("https://github.com/camdenyale")
+**🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
 
 <br clear="all">
 
