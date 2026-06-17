@@ -6,7 +6,7 @@
 **Work Phone:** (207)808-9070  
 
 **Social Media:**   
-**🐙 GitHub:** [GitHub]("https://github.com/camdenyale")     
+**🐙 GitHub:** [GitHub]("[https://github.com/camdenyale](https://github.com/camdenyale)")     
 **🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
 
 <br clear="all">
