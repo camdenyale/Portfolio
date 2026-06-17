@@ -1,14 +1,11 @@
 # Undergraduate Computer Science Portfolio
+![Camden Yale headshot](/docs/assets/DSC04728.jpeg){:width="300"}
 
 ## Contact Information
 - **School Email:** cyale@tulane.edu
 - **Personal Email:** camden.myale@gmail.com
 - **Work Phone:** (207)808-9070
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/camdenyale)
-
-  
-<img src="./docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="200"/>
-![Camden Yale headshot](/docs/assets/DSC04728.jpeg){:width="200"}
 
 ## About Me
 
