@@ -6,6 +6,8 @@
 - **Work Phone:** (207)808-9070
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/camdenyale)
 
+## About Me
+
 ## Undergraduate Projects 
 
 ### Howe and Howe Internship 
@@ -136,8 +138,45 @@
   - Leadership and Team Management
   - Event Planning and Workshop Facilitation
   - Podcast Production
+- **Certifications:**
+  - Microsoft Excel Associate
 - **Academic Honors:**
   - Deans list 6/6 semesters
   - Merit Scholarship: $20,000 yr
   - Tulane Scholarship: $60,60 yr
   - Alumni Donors Award $3,000 yr
+
+## Relevant Coursework
+- **Computer Science, Math & Engineering:**
+  - Intro to Computer Science I & II
+  - Into to Business Computing
+  - Intro to Discrete Math
+  - Into to Algorithms
+  - Introduction to Data Science
+  - Intro to Machine Learning
+  - Game Programming
+  - Operating Systems
+  - Intro to Artifical Intelligence
+  - Intro to Computer Systems and Networking
+  - Linear Algebra
+  - Long Calculus I & II
+  - Persuasive Writing (technical writing / oral skills)
+- **Security, Homeland Security & Interdisciplinary:**
+  - Health and Medical Issues
+  - Homeland Security Challenge
+  - Domestic and International Terrorism
+  - Critical Infrastructure
+  - Emergency Management
+  - Transportation and Border Security
+  - Human Intelligence and Counter Intelligence
+  - Counter Terrorism
+  - Cybersecurity
+  - Cyber Threats
+  - Lifelong Development and Psychology (relevant for human factors in security)
+
+## Extracurriculars
+- Theta Tau - Nu Epsilon Chapter, *Professional Engineering Fraternity*, New Orleans, LA
+- Alpha Alpha Alpha - Tri Alpha, *First Generation Honors Society*, New Orleans, LA
+- Alpha Lambda Delta - *Honors Society for first year students with a GPA > 3.5*, New Orleans, LA
+
+## Downloadable Resume
