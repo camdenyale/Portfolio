@@ -39,7 +39,9 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 ### Geospatial and Economic Analysis of Dunkin vs. Starbucks in the U.S. - Data Science Project
 - **Description:** This project maps and compares the regional distribution of Dunkin and Starbucks stores across the country, highlighting patterns of dominance and exploring the impact of their historical origins. Using choropleth maps and logistic regression, we analyze how local economic factors—particularly median household income—influence store presence and market saturation, while documenting key regional trends and differences between the two chains.
 - **Year:** Fall 2025
-- **Links:** Check out [My Website](https://camdenyale.github.io/DataScienceProject/) for more information!
+- **Links:**
+  - Check out [My Website](https://camdenyale.github.io/DataScienceProject/) for more information!
+  - Check out [My Code](https://github.com/camdenyale/DataScienceProject/) to see my code!
 
 ### Farm Game Project 
 - **Description:** Developed a Unity-based farm simulation game where players manage crops and animals to collect ingredients. The gameplay features an interactive farm environment that allows users to plant, harvest, and care for animals, gathering resources for cooking. As players collect ingredients, they unlock recipes and access a dedicated kitchen screen to prepare dishes. Progressing through cooking recipes unlocks new levels and challenges, encouraging strategic farming and culinary creativity. This project showcases Unity game development, resource management systems, UI design, and progression mechanics inspired by popular social farm games.
