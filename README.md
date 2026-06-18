@@ -17,20 +17,20 @@
 
 ---
 
-##  🔍 Quick Navigation
+## 🔍 Quick Navigation
 - #-about-me
 - #-undergraduate-projects
-- #-education
+- Education
 - Work History
 - #-skills
 - #programming-language-proficiency
-- #-relevant-coursework
+- Relevant Coursework
 - #-extracurriculars
 - #-downloadable-resume
 
 ---
 
-## 👋 About Me
+## 👋About Me
 
 I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Computer Science, B.A. in Homeland Security). I specialize in building robust software systems, embedded frameworks, and impactful data science projects. I have experience developing both mission-critical engineering tools for robotics and engaging games and data visualizations. I enjoy solving real-world problems through code, teamwork, and curiosity.
 
