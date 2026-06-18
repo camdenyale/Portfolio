@@ -29,7 +29,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 ### Weenix
 - **Description:** Weenix is an intensive semester-long project centered on building a fully functional Unix-like operating system kernel from scratch. As part of the Operating Systems course (CMPS4470), this project is renowned for its rigor and depth, and typically serves as a cornerstone of Brown University's Computer Science curriculum, offered here in collaboration with Tulane University. The project is divided into four major components: process management, device drivers, a virtual file system (VFS), and the S5FS file system. Due to course policy, the source code must remain private—please contact me for more information or to discuss the project in detail.
 - **Year:** Spring 2026
-- **Links:** 
+- **Links:** Due to the proprietary nature of this education material I am unable to share my code online. Please reach out if you rish to discuss implementation in further detail. 
 
 ### WaveMatch AI Chatbot
 - **Description:** WaveMatch is an intelligent campus concierge designed to bridge the gap between Tulane’s vast extracurricular ecosystem and the students who often feel overwhelmed by it. By moving beyond simple keyword matching, WaveMatch uses Retrieval-Augmented Generation (RAG) to understand a student’s "vibe," academic background, and schedule constraints to offer curated, high-impact recommendations
@@ -41,7 +41,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 - **Year:** Fall 2025
 - **Links:**
   - Check out [My Website](https://camdenyale.github.io/DataScienceProject/) for more information!
-  - Check out [My Code](https://github.com/camdenyale/DataScienceProject/) to see my code!
+  - Check out [My Code](https://github.com/camdenyale/DataScienceProject/) !
 
 ### Farm Game Project 
 - **Description:** Developed a Unity-based farm simulation game where players manage crops and animals to collect ingredients. The gameplay features an interactive farm environment that allows users to plant, harvest, and care for animals, gathering resources for cooking. As players collect ingredients, they unlock recipes and access a dedicated kitchen screen to prepare dishes. Progressing through cooking recipes unlocks new levels and challenges, encouraging strategic farming and culinary creativity. This project showcases Unity game development, resource management systems, UI design, and progression mechanics inspired by popular social farm games.
