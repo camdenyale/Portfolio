@@ -17,6 +17,19 @@
 
 ---
 
+##  🔍 Quick Navigation
+- #-about-me
+- #-undergraduate-projects
+- #-education
+- Work History
+- #-skills
+- #programming-language-proficiency
+- #-relevant-coursework
+- #-extracurriculars
+- #-downloadable-resume
+
+---
+
 ## 👋 About Me
 
 I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Computer Science, B.A. in Homeland Security). I specialize in building robust software systems, embedded frameworks, and impactful data science projects. I have experience developing both mission-critical engineering tools for robotics and engaging games and data visualizations. I enjoy solving real-world problems through code, teamwork, and curiosity.
@@ -65,7 +78,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 ---
 
 ##  🎓  Education
-- **Tulane Univeristy of New Orleans** - Dual Degree Canidate
+- **Tulane University of New Orleans** - Dual Degree Candidate
   - *Bachelor of Science*, Computer Science; School of Science and Engineering
   - *Bachelor of Arts*, Homeland Security, School of Professional Advancement
 - **Graduation Year:** May 2027
@@ -162,10 +175,10 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 - **Certifications:**
   - Microsoft Excel Associate
 - **Academic Honors:**
-  - Deans list 6/6 semesters
-  - Merit Scholarship: $20,000 yr
-  - Tulane Scholarship: $60,60 yr
-  - Alumni Donors Award $3,000 yr
+  - Dean's list (6/6 semesters)
+  - Merit Scholarship: $20,000/yr
+  - Tulane Scholarship: $60,60/yr
+  - Alumni Donors Award $3,000/yr
 
 ---
 ## Programming Language Proficiency
@@ -185,16 +198,16 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ## ✏️ Relevant Coursework
 - **Computer Science, Math & Engineering:**
-  - Intro to Computer Science I & II
-  - Into to Business Computing
-  - Intro to Discrete Math
-  - Into to Algorithms
+  - Introduction to Computer Science I & II
+  - Introduction to Business Computing
+  - Introduction to Discrete Math
+  - Introduction to Algorithms
   - Introduction to Data Science
-  - Intro to Machine Learning
+  - Introduction to Machine Learning
   - Game Programming
   - Operating Systems
-  - Intro to Artifical Intelligence
-  - Intro to Computer Systems and Networking
+  - Introduction to Artifical Intelligence
+  - Introduction to Computer Systems and Networking
   - Linear Algebra
   - Long Calculus I & II
   - Persuasive Writing (technical writing / oral skills)
