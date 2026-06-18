@@ -9,9 +9,9 @@
 **🐙 GitHub:** [GitHub](https://github.com/camdenyale)     
 **🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
 
-**Location:**
-📍 New Orleans, Louisiana 
-📍 Limerick, Maine
+**Location:**   
+📍 New Orleans, Louisiana    
+📍 Limerick, Maine   
 
 <br clear="all">
 
