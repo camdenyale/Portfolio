@@ -1,41 +1,52 @@
-<img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="margin-right:30px;float:left;"/>
-<img src="docs/assets/tulane_logo.png" alt="Tulane Logo" width="150" style="margin-right:30px;float↘️;"/>
-**Contact Information:**  
-**📧 School Email:** cyale@tulane.edu  
-**📧 Personal Email:** camden.myale@gmail.com  
-**📞 Work Phone:** (207) 808-9070  
+<div style="display: flex; align-items: flex-start; gap: 28px; flex-wrap: wrap; margin-bottom: 24px;">
+  <div style="flex: 0 0 250px;">
+    <img src="docs/assets/DSC04728.jpeg" alt="Camden Yale headshot" width="250" style="width: 250px; max-width: 100%; border-radius: 10px; display: block;" />
+  </div>
 
-**Social Media:**   
-**🐙 GitHub:** [GitHub](https://github.com/camdenyale)     
-**🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/camdenyale)
+  <div style="flex: 1 1 280px; min-width: 240px;">
+    <h3 style="margin-top: 0;">Contact Information</h3>
+    <p>
+      📧 <strong>School Email:</strong> <a href="mailto:cyale@tulane.edu">cyale@tulane.edu</a><br>
+      📧 <strong>Personal Email:</strong> <a href="mailto:camden.myale@gmail.com">camden.myale@gmail.com</a><br>
+      📞 <strong>Work Phone:</strong> <a href="tel:+12078089070">(207) 808-9070</a>
+    </p>
 
-**Location:**   
-📍 New Orleans, Louisiana    
-📍 Limerick, Maine   
+    <h3>Social Media</h3>
+    <p>
+      🐙 <strong>GitHub:</strong> <a href="https://github.com/camdenyale">camdenyale</a><br>
+      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/camdenyale">Camden Yale</a>
+    </p>
 
-<br clear="all">
+    <h3>Location</h3>
+    <p>
+      📍 New Orleans, Louisiana<br>
+      📍 Limerick, Maine
+    </p>
 
+    <img src="docs/assets/tulane_logo.png" alt="Tulane University logo" width="190" style="width: 190px; max-width: 75%; margin-top: 8px; display: block;" />
+  </div>
+</div>
 ---
 
 ## 🔍 Quick Navigation
-#-about-me
-#-undergraduate-projects
-- Education
-- Work History
-- #-skills
-- #programming-language-proficiency
-- Relevant Coursework
-- #-extracurriculars
-- #-downloadable-resume
+- [About Me](#about-me)
+- [Undergraduate Projects](#undergraduate-projects)
+- [Education](#education)
+- [Work History](#work-history)
+- [Skills](#skills)
+- [Programming Language Proficiency](#programming-language-proficiency)
+- [Relevant Coursework](#relevant-coursework)
+- [Extracurriculars](#extracurriculars)
+- [Downloadable Resume](#downloadable-resume)
 
 ---
-
+<a id="about-me"></a>
 ## 👋About Me
 
 I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Computer Science, B.A. in Homeland Security). I specialize in building robust software systems, embedded frameworks, and impactful data science projects. I have experience developing both mission-critical engineering tools for robotics and engaging games and data visualizations. I enjoy solving real-world problems through code, teamwork, and curiosity.
 
 ---
-
+<a id="undergraduate-projects"></a>
 ##  📝 Undergraduate Projects 
 
 ### Howe and Howe Internship 
@@ -76,7 +87,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 - **Links:** Due to the proprietary and sensitive nature of this work, code and detailed documentation are not publicly available. Please reach out if you wish to discuss implementation in further details.
 
 ---
-
+<a id="education"></a>
 ##  🎓  Education
 - **Tulane University of New Orleans** - Dual Degree Candidate
   - *Bachelor of Science*, Computer Science; School of Science and Engineering
@@ -85,7 +96,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 - **Current Year:** Senior (4th year)
 
 ---
-
+<a id="work-history"></a>
 ##  💼 Work History
 - **Software Engineer Intern** - *Textron Systems: Howe and Howe Technologies*, Waterboro, ME
   - **Description:** Collaborated closely with multidisciplinary teams to enhance quality assurance in robotic systems manufacturing. Delivered effective solutions for early component validation, enabling smoother integration and reduced downtime. Demonstrated strong technical communication by documenting projects and contributing to ongoing process improvements.
@@ -107,7 +118,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
   - **Dates of Employment:** August 2025 - Current
 
  ---
- 
+ <a id="skills"></a>
 ## 🛠️ Skills
 - **Programming Languages:**
   - Python
@@ -181,6 +192,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
   - Alumni Donors Award $3,000/yr
 
 ---
+<a id="programming-language-proficiency"></a>
 ## Programming Language Proficiency
 
 | Language   | Proficiency         |
@@ -195,7 +207,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 | SQL        | ⭐⭐⭐⭐⭐⭐⭐  (8/10)     |
 
 ---
-
+<a id="relevant-coursework"></a>
 ## ✏️ Relevant Coursework
 - **Computer Science, Math & Engineering:**
   - Introduction to Computer Science I & II
@@ -225,13 +237,13 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
   - Lifelong Development and Psychology (relevant for human factors in security)
 
 --- 
-
+<a id="extracurriculars"></a>
 ## ⏰ Extracurriculars
 - Theta Tau - Nu Epsilon Chapter, *Professional Engineering Fraternity*, New Orleans, LA
 - Alpha Alpha Alpha - Tri Alpha, *First Generation Honors Society*, New Orleans, LA
 - Alpha Lambda Delta - *Honors Society for first year students with a GPA > 3.5*, New Orleans, LA
 
 ---
-
+<a id="downloadable-resume"></a>
 ## 📄 Downloadable Resume
 📄 [Download My Resume (PDF)](/docs/assets/Resume.pdf)
