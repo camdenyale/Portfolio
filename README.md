@@ -18,8 +18,8 @@
 ---
 
 ## 🔍 Quick Navigation
-- #-about-me
-- #-undergraduate-projects
+#-about-me
+#-undergraduate-projects
 - Education
 - Work History
 - #-skills
@@ -60,7 +60,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
   - Check out [My Website](https://camdenyale.github.io/DataScienceProject/) for more information!
   - Check out [My Code](https://github.com/camdenyale/DataScienceProject/) !
 
-### Farm Game Project 
+### Cultivate and Cook Game 
 - **Description:** Developed a Unity-based farm simulation game where players manage crops and animals to collect ingredients. The gameplay features an interactive farm environment that allows users to plant, harvest, and care for animals, gathering resources for cooking. As players collect ingredients, they unlock recipes and access a dedicated kitchen screen to prepare dishes. Progressing through cooking recipes unlocks new levels and challenges, encouraging strategic farming and culinary creativity. This project showcases Unity game development, resource management systems, UI design, and progression mechanics inspired by popular social farm games.
 - **Year:** Fall 2025
 - **Links:**
