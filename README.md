@@ -22,8 +22,10 @@
       📍 New Orleans, Louisiana<br>
       📍 Limerick, Maine
     </p>
+  </div>
 
-    <img src="docs/assets/tulane_logo.png" alt="Tulane University logo" width="190" style="width: 190px; max-width: 75%; margin-top: 8px; display: block;" />
+  <div style="flex: 0 0 190px; align-self: center; text-align: center;">
+    <img src="docs/assets/tulane_logo.png" alt="Tulane University logo" width="190" style="width: 190px; max-width: 100%; display: block; margin: 0 auto;" />
   </div>
 </div>
 ---
@@ -41,12 +43,14 @@
 
 ---
 <a id="about-me"></a>
+
 ## 👋About Me
 
 I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Computer Science, B.A. in Homeland Security). I specialize in building robust software systems, embedded frameworks, and impactful data science projects. I have experience developing both mission-critical engineering tools for robotics and engaging games and data visualizations. I enjoy solving real-world problems through code, teamwork, and curiosity.
 
 ---
 <a id="undergraduate-projects"></a>
+
 ##  📝 Undergraduate Projects 
 
 ### Howe and Howe Internship 
@@ -88,6 +92,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ---
 <a id="education"></a>
+
 ##  🎓  Education
 - **Tulane University of New Orleans** - Dual Degree Candidate
   - *Bachelor of Science*, Computer Science; School of Science and Engineering
@@ -97,6 +102,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ---
 <a id="work-history"></a>
+
 ##  💼 Work History
 - **Software Engineer Intern** - *Textron Systems: Howe and Howe Technologies*, Waterboro, ME
   - **Description:** Collaborated closely with multidisciplinary teams to enhance quality assurance in robotic systems manufacturing. Delivered effective solutions for early component validation, enabling smoother integration and reduced downtime. Demonstrated strong technical communication by documenting projects and contributing to ongoing process improvements.
@@ -119,6 +125,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
  ---
  <a id="skills"></a>
+ 
 ## 🛠️ Skills
 - **Programming Languages:**
   - Python
@@ -193,6 +200,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ---
 <a id="programming-language-proficiency"></a>
+
 ## Programming Language Proficiency
 
 | Language   | Proficiency         |
@@ -208,6 +216,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ---
 <a id="relevant-coursework"></a>
+
 ## ✏️ Relevant Coursework
 - **Computer Science, Math & Engineering:**
   - Introduction to Computer Science I & II
@@ -238,6 +247,7 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 --- 
 <a id="extracurriculars"></a>
+
 ## ⏰ Extracurriculars
 - Theta Tau - Nu Epsilon Chapter, *Professional Engineering Fraternity*, New Orleans, LA
 - Alpha Alpha Alpha - Tri Alpha, *First Generation Honors Society*, New Orleans, LA
@@ -245,5 +255,6 @@ I'm Camden Yale, a senior Dual Degree candidate at Tulane University (B.S. in Co
 
 ---
 <a id="downloadable-resume"></a>
+
 ## 📄 Downloadable Resume
 📄 [Download My Resume (PDF)](/docs/assets/Resume.pdf)
